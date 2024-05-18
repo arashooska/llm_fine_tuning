@@ -1,0 +1,165 @@
+{
+    "os": "Linux-4.18.0-513.24.1.el8_9.x86_64-x86_64-with-glibc2.28",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-05-16T02:26:24.059140",
+    "startedAt": "2024-05-16T02:26:22.779184",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "chupacabra.cs.usfca.edu",
+    "username": "sabbasi4",
+    "executable": "/raid/aransari/mvenv/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 2806.804875,
+        "min": 800.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2425.243,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2420.044,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2420.411,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2421.741,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2419.348,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2426.615,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2429.217,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 3000.0,
+            "min": 800.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 63.96875,
+            "used": 36.35806655883789
+        }
+    },
+    "gpu": "Quadro P5000",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "Quadro P5000",
+            "memory_total": 17179869184
+        },
+        {
+            "name": "Quadro P5000",
+            "memory_total": 17179869184
+        }
+    ],
+    "memory": {
+        "total": 92.56193161010742
+    }
+}
